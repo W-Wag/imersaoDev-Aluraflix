@@ -1,10 +1,13 @@
 html,body {
+    
+
     font-family: "Roboto Mono", monospace;
     text-align: center;
+
     background-image: url("https://media.istockphoto.com/id/1204686305/pt/vetorial/film-reel-with-film-strips-isolated-on-blue-background-cinema-background-with-place-for.jpg?s=170667a&w=0&k=20&c=IIBRupDpLAEnS1hAvJL_LuDG3ebGr_5HpRh6pDFA3Ds=");
     background-color: #000000;
-    background-size: 100%;
-    background-position: center top;
+    background-size: cover;
+    background-position: left center;
     background-repeat: no-repeat;
     
     
@@ -13,6 +16,7 @@ html,body {
   .container {
     text-align: center;
     padding: 20px;
+    height: 92.2vh;
   }
   
   .page-title {
